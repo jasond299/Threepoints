@@ -1,9 +1,9 @@
-// Title: Lab 1 – threepoints.cpp
+// Title: threepoints.cpp
 //
 // Purpose: read three points determine if they form a line or a triangle
 // output information about the line or triangle
 //
-// Class: CSC 2330 Fall 2018
+// 
 //
 // Author: Jason Djajasasmita
 #include <ctime>
