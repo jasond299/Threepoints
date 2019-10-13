@@ -27,10 +27,10 @@ int main()
     cout << "input point 1:" ;
     cin >> x1;
     cin >> y1;
-    cout << "input point 1:";
+    cout << "input point 2:";
     cin >> x2;
     cin >> y2;
-    cout << "input point 1:";
+    cout << "input point 3:";
     cin >> x3;
     cin >> y3;
     double slope1 = Slope(x1,y1,x2,y2);  // calculate slope
